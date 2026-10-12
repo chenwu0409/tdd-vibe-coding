@@ -1,8 +1,7 @@
 # tdd-vibe-coding · Test-Driven Development for AI-Human Collaboration
 
-> **Skill version**: v1.0 (2026-10-09)
-> **Author**: 启明（@AI-Boss）+ 陈武
-> **License**: 一堂 AI 大航海作业
+> **Skill version**: v1.0 (2026-09-09)
+> **Author**: chenwu0409
 
 ---
 
@@ -11,12 +10,11 @@
 A reusable **skill** that turns "AI writes code, human tests it" into "AI generates tests from PRD, then writes code to pass them." The goal: **90-95% of low-level bugs caught before human review**.
 
 **Based on**:
-- OpenClaw `tdd` skill (mattpocock 全套, red→green 循环)
-- 一堂 AI 大航海作业 #1 (陈武, 2026-10-09)
+- OpenClaw `tdd` skill (test-driven development, red→green cycle)
 
 **Adapted for**:
 - Vibe Coding workflows (PRD → Test Cases → Code → Report)
-- Multi-language projects (Spring Boot Java + 小程序 + Web)
+- Multi-language projects (Spring Boot Java + miniprogram + Web)
 - AI agent collaboration (not just human developers)
 
 ---

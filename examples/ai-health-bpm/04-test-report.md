@@ -101,4 +101,4 @@
 - [x] Spot-checked D-001 fix
 - [x] **Approved to ship**
 
-Reviewer signature: 陈武, 2026-10-09
+Reviewer signature: chenwu0409, 2026-09-09

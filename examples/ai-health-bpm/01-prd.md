@@ -1,8 +1,8 @@
 # PRD · Vital Signs Submission (AI Health BPM Module)
 
 **Name**: Vital Signs Submission API
-**Author**: 陈武
-**Date**: 2026-10-09
+**Author**: chenwu0409
+**Date**: 2026-09-09
 **Status**: Approved
 
 ---
